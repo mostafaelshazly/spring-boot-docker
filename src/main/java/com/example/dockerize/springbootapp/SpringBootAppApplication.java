@@ -17,6 +17,6 @@ public class SpringBootAppApplication {
 
 	@GetMapping()
 	public String getGreeting(){
-		return "Hello spring boot application with jeckins 2 ";
+		return "Hello spring boot application with jeckins ";
 	}
 }
